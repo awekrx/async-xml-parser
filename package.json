@@ -1,0 +1,9 @@
+{
+  "name": "async-xml-parser",
+  "devDependencies": {
+    "@types/node": "^20.12.11"
+  },
+  "dependencies": {
+    "saxes": "^6.0.0"
+  }
+}
